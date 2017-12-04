@@ -1,21 +1,8 @@
 # SON - Node.js básico
 
-## AULA 01 - Introdução
+## AULA 02 - Configurando ambiente de desenvolvimento
 
-## Ementa do curso
-
-1. Configurando o ambiente.
-2. O que é node.js?
-3. O que é npm?
-4. Criando primeiro projeto.
-5. Trabalhando com http.
-6. Como utilizar módulos.
-7. Trabalhando com arquivos.
-8. Trabalhando com evento *emitter*.
-9. Adicionando pacotes externos.
-10. Remover e atualizar pacotes externos.
-11. Publicar um pacote no npm.
-12. Trabalhando com websockets.
-13. Principais frameworks.
-14. Iniciando com *Express.js*.
-15. Finalizando.
+1. Diferenças entre as versões LTS e Current.
+2. Node Package Manager: NPM.
+3. Instaladores nativos para diferentes s.o's via repositórios, brew (mac) ou chocolately (windows).
+4. Editor utilizado no curso: sublime text 3.
