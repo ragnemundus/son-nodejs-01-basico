@@ -1,13 +1,17 @@
 # SON - Node.js básico
 
-## AULA 05 - Criando o primeiro projeto
+## AULA 06 - Trabalhando com http
 
-1. npm init
-   - criando o package.json
-   - definindo dados do projeto via boilerplate
-2. criando arquivo app.js
-   - retornando dados no terminal utilizando *console.log*
-   - criando variáveis e exibindo seus conteúdos via *console.log*
-3. Formas de gerenciamento de pacotes e projetos.
-4. atualizando o package.json
-5. Comandos básicos, help e boilerplate.
+1. Introdução à modulos em JavaScript.
+2. Importando modulos com *require*.
+3. Utilizando os objetos:
+	- http
+	- server
+	- response
+	- request
+4. Utilizando funções:
+	- response.writeHead
+	- response.write
+	- response.end
+	- http.createServer
+	- server.listen
