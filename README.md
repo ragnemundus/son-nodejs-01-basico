@@ -1,8 +1,8 @@
 # SON - Node.js básico
 
-## AULA 02 - Configurando ambiente de desenvolvimento
+## AULA 03 - O que é node.js?
 
-1. Diferenças entre as versões LTS e Current.
-2. Node Package Manager: NPM.
-3. Instaladores nativos para diferentes s.o's via repositórios, brew (mac) ou chocolately (windows).
-4. Editor utilizado no curso: sublime text 3.
+1. Ambiente de execução construído sobre o V8 (Google Chrome JavaScript Engine)
+2. Orientado à eventos.
+3. Modelo de I/O não bloqueante.
+4. Grande ecosistema de bibliotecas/módulos.
