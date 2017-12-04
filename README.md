@@ -1,8 +1,9 @@
 # SON - Node.js básico
 
-## AULA 03 - O que é node.js?
+## AULA 04 - O que é npm?
 
-1. Ambiente de execução construído sobre o V8 (Google Chrome JavaScript Engine)
-2. Orientado à eventos.
-3. Modelo de I/O não bloqueante.
-4. Grande ecosistema de bibliotecas/módulos.
+1. Apresentação do site do NPM.
+2. Busca por pacotes no site.
+3. Formas de gerenciamento de pacotes e projetos.
+4. Apresentando o package.json
+5. Comandos básicos, help e boilerplate.
