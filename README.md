@@ -1,17 +1,7 @@
 # SON - Node.js básico
 
-## AULA 06 - Trabalhando com http
+## AULA 07 - Como utilizar módulos
 
-1. Introdução à modulos em JavaScript.
-2. Importando modulos com *require*.
-3. Utilizando os objetos:
-	- http
-	- server
-	- response
-	- request
-4. Utilizando funções:
-	- response.writeHead
-	- response.write
-	- response.end
-	- http.createServer
-	- server.listen
+1. Criando o primeiro módulo.
+2. module.exports x exports.*function*
+3. Um modulo pode conter objetos e/ou funções.
