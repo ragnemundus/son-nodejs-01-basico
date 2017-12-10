@@ -1,7 +1,8 @@
 # SON - Node.js básico
 
-## AULA 07 - Como utilizar módulos
+## AULA 08 - Trabalhando com arquivos
 
-1. Criando o primeiro módulo.
-2. module.exports x exports.*function*
-3. Um modulo pode conter objetos e/ou funções.
+1. Módulo *fs* (file system).
+2. Escrevendo e lendo arquivos e diretórios.
+3. Trabalhando de forma sincrona.
+4. Utilizando filtros.
